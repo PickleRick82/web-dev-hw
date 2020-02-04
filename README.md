@@ -1,1 +1,1 @@
-# Richard Kinkade's Web Dev Homework File
+# Richard Kinkade's Web Dev Homework Repository

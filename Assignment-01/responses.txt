@@ -1,3 +1,7 @@
-Rick Kinkade
+The Web is the information that is accessed through the Internet.
 
-Hello
+The Internet is made up of routers that move packet of information from computer to computer.
+
+I has information about websites, including links to those sites.
+
+It allows multiple people to work at the same time, and save the changes together later.
